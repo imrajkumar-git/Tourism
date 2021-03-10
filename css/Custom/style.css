@@ -1,10 +1,13 @@
 .carousel-item{
-   max-height: 630px;
-  
-} 
-.bg-raw{
-   background-color: greenyellow;
+   max-height: 640px;
 }
-.dewan:hover{
-   background-color: black;
+a:hover{
+   background-color: rgba(152, 170, 190, 0.966);
+}
+.a{
+   text-align: center;
+   
+}
+.light{
+background-color: lightgrey;
 }
